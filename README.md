@@ -1,5 +1,4 @@
 # MLB-Whiff-Analysis
-# Baseball Whiff Pitch Analysis (2025)
 
 ## Overview
 This project analyzes whiff pitches (swinging strikes) in the 2025 MLB season using Statcast data, conducted as of June 25, 2025. It explores pitch categories, locations, release speeds, top pitchers, and player-specific performance (e.g., Kevin Gausman) through data visualization and statistical analysis. The project leverages Python libraries such as `pandas`, `matplotlib`, `seaborn`, and `pybaseball` to process data and create insightful plots, presented in a single combined figure.
@@ -27,5 +26,5 @@ This project analyzes whiff pitches (swinging strikes) in the 2025 MLB season us
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Baseball-Whiff-Pitch-Analysis-2025.git
-   cd Baseball-Whiff-Pitch-Analysis-2025
+   git clone https://github.com/yourusername/MLB-Whiff-Analysis.git
+   cd MLB-Whiff-Analysis
